@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+@import url('https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css');
+
+.navbar.navbar-default{
+overflow: hidden;
+position: sticky;
+top:0;
+background-color: white;
+}
+.input-group.rounded{
+    padding:10px 15px;
+}
+.navbar-default .navbar-nav>li>a{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.content{
+    background-color:white;
+}
+._content{
+    height: 60vh;
+}
+.size{
+    font-size:60px ;
+    color: black;
+}
+.grid{
+    display: flex;
+}
+.home-info{
+    padding:5px 100px 50px;
+    color: black;
+}
+.btn{
+    background-color: black;
+    color:white;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
